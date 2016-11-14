@@ -1,0 +1,20 @@
+body, h2 {
+  font-family: Raleway;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.shopList {
+  flex-grow: 1;
+  padding: 1em;
+  border: 1px solid #DEDEDE;
+}
+
+.itemForm {
+  flex-grow: 1;
+  padding: 1em;
+  border: 1px solid #DEDEDE;
+}

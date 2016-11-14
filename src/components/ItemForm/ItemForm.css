@@ -1,0 +1,15 @@
+.checkboxCentering {
+  width: 20%;
+  padding-left: 3.8em;
+  padding-top: 2px;
+  padding-bottom: 10px;
+}
+
+.form {
+  height: 25em;
+}
+
+.formHeader {
+  padding-top: 25px;
+  font-weight: 300;
+}
