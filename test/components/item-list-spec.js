@@ -7,7 +7,7 @@ import { shallow } from 'enzyme';
 function setupComponent() {
   const props = {
     shopItems: [{
-      name: 'ShopKeep',
+      name: 'Store',
       description: 'We are the best',
       price: '1,000,000',
       date: '2016-11-20',

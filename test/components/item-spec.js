@@ -5,7 +5,7 @@ import Item from '../../src/components/Item';
 
 function setupComponent() {
   const props = {
-    name: 'ShopKeep',
+    name: 'Store',
     description: 'We are the best',
     price: '1,000,000',
     date: '2016-11-20',

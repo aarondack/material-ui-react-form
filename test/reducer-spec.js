@@ -3,7 +3,7 @@ import Shop from '../src/reducers';
 import { addItemToStore } from '../src/actions';
 
 const item = {
-  name: 'ShopKeep',
+  name: 'Store',
   description: 'We are the best',
   price: '1,000,000',
   date: '2016-11-20',
